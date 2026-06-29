@@ -1,7 +1,8 @@
-fecha,jugador_a,jugador_b,ganador
-2024-01-01,Novak Djokovic,Carlos Alcaraz,Novak Djokovic
-2024-01-02,Rafael Nadal,Novak Djokovic,Novak Djokovic
-2024-01-03,Iga Swiatek,Aryna Sabalenka,Iga Swiatek
-2024-01-04,Carlos Alcaraz,Rafael Nadal,Carlos Alcaraz
+fecha,superficie,jugador_a,jugador_b,ganador,cuota_a,cuota_b
+2024-01-01,hard,Novak Djokovic,Carlos Alcaraz,Novak Djokovic,1.60,2.40
+2024-01-02,clay,Rafael Nadal,Novak Djokovic,Rafael Nadal,1.80,2.10
+2024-01-03,hard,Iga Swiatek,Aryna Sabalenka,Iga Swiatek,1.70,2.20
+2024-01-04,clay,Carlos Alcaraz,Rafael Nadal,Carlos Alcaraz,2.10,1.75
+
 
 
