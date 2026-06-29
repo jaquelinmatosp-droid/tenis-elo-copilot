@@ -1,7 +1,6 @@
-nombre,rating_global
-Novak Djokovic,2000
-Carlos Alcaraz,1950
-Rafael Nadal,1920
-Iga Swiatek,1950
-Aryna Sabalenka,1900
-
+nombre,rating_global,rating_hard,rating_clay,rating_grass
+Novak Djokovic,2000,2000,1950,1980
+Carlos Alcaraz,1950,1900,2000,1850
+Rafael Nadal,1920,1850,2050,1800
+Iga Swiatek,1950,1900,2000,1800
+Aryna Sabalenka,1900,1950,1850,1800
