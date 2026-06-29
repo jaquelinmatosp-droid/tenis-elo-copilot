@@ -1,2 +1,7 @@
-python actualizar_elo.py
+fecha,jugador_a,jugador_b,ganador
+2024-01-01,Novak Djokovic,Carlos Alcaraz,Novak Djokovic
+2024-01-02,Rafael Nadal,Novak Djokovic,Novak Djokovic
+2024-01-03,Iga Swiatek,Aryna Sabalenka,Iga Swiatek
+2024-01-04,Carlos Alcaraz,Rafael Nadal,Carlos Alcaraz
+
 
